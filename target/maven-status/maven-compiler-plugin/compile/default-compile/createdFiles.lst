@@ -1,0 +1,14 @@
+config\Config.class
+dao\CategoryDAO.class
+servlets\AddCategoryToDB.class
+servlets\DeleteProductFromDB.class
+servlets\UpdateCategoryToDB.class
+servlets\UpdateProductToDB.class
+impl\ProductDAOImpl.class
+servlets\DeleteCategoryFromDB.class
+model\Product.class
+model\Category.class
+servlets\AddImageToDB.class
+impl\CategoryDAOImpl.class
+dao\ProductDAO.class
+servlets\AddProductToDB.class
